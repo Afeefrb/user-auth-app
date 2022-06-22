@@ -13,8 +13,8 @@
 <b>Other tools:</b>  bcrypt (for hashing the password), cors, mongoose, dotenv
 <h4> REST API: </h4>
 /api <br>
- |_ /api/login <br>
  |_ /api/register <br>
+ |_ /api/login <br>
  |_ /api/auth <br>
  
 <hr> 
