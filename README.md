@@ -16,7 +16,13 @@
 ![user-auth-app](https://user-images.githubusercontent.com/52856436/174943939-4206d832-3146-4380-afcd-0800d80b8c30.png)
 
 <h3> Register Account </h3>
-![register-1](https://user-images.githubusercontent.com/52856436/174944563-8c596d39-0380-44d5-a343-0ec6facb8ebf.PNG)
+
+![register-1](https://user-images.githubusercontent.com/52856436/174944778-e9f1ce1c-97f6-44de-a1bb-1ad165c37cd0.PNG)
+
+![register-2](https://user-images.githubusercontent.com/52856436/174944947-c80b861e-883c-401f-b59c-b2d7dd1f04f9.PNG)
+
 
 
 <h3> Login </h3>
+
+![login](https://user-images.githubusercontent.com/52856436/174945039-3de17024-5eb9-415c-b401-dde07d7f2fbe.PNG)
