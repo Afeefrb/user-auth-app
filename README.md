@@ -12,10 +12,10 @@
 <b>Repo path:</b> user-auth-app/server <br>
 <b>Other tools:</b>  bcrypt (for hashing the password), cors, mongoose, dotenv
 <h4> APIs </h4>
-/api
- |_ /api/login
- |_ /api/register
- |_ /api/auth
+/api <br>
+ |_ /api/login <br>
+ |_ /api/register <br>
+ |_ /api/auth <br>
 
 ![user-auth-app](https://user-images.githubusercontent.com/52856436/174943939-4206d832-3146-4380-afcd-0800d80b8c30.png)
 
