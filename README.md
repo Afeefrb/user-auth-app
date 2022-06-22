@@ -16,9 +16,10 @@
  |_ /api/login <br>
  |_ /api/register <br>
  |_ /api/auth <br>
-
+ 
+<hr> 
 ![user-auth-app](https://user-images.githubusercontent.com/52856436/174943939-4206d832-3146-4380-afcd-0800d80b8c30.png)
-
+<hr> 
 <h3> Register Account </h3>
 
 ![register-1](https://user-images.githubusercontent.com/52856436/174944778-e9f1ce1c-97f6-44de-a1bb-1ad165c37cd0.PNG)
