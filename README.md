@@ -13,3 +13,10 @@
 <b>Other tools:</b>  bcrypt (for hashing the password), cors, mongoose, dotenv
 <hr>
 
+![user-auth-app](https://user-images.githubusercontent.com/52856436/174943939-4206d832-3146-4380-afcd-0800d80b8c30.png)
+
+<h3> Register Account </h3>
+![register-1](https://user-images.githubusercontent.com/52856436/174944563-8c596d39-0380-44d5-a343-0ec6facb8ebf.PNG)
+
+
+<h3> Login </h3>
